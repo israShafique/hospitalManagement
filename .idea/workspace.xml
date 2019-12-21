@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9eba6b07-1d61-4ddc-a828-501b806b0bec" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QZWRDQImPvPt3EoB8XREnRfVK5" />
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tenserflow1" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Isra Shafique\PycharmProjects\clinic\static\signup" />
+      <recent name="C:\Users\Isra Shafique\PycharmProjects\clinic\static\login" />
+      <recent name="C:\Users\Isra Shafique\PycharmProjects\clinic\static" />
+      <recent name="C:\Users\Isra Shafique\PycharmProjects\clinic\templates\public" />
+      <recent name="C:\Users\Isra Shafique\PycharmProjects\clinic\static\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.clinic">
+    <configuration name="home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/clinic/templates/public/home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="clinic" type="Python.FlaskServer">
+      <module name="clinic" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand />
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9eba6b07-1d61-4ddc-a828-501b806b0bec" name="Default Changelist" comment="" />
+      <created>1567978588853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567978588853</updated>
+      <workItem from="1567978592902" duration="5794000" />
+      <workItem from="1568060184341" duration="4073000" />
+      <workItem from="1568127320028" duration="619000" />
+      <workItem from="1568135431845" duration="2116000" />
+      <workItem from="1568223496311" duration="1030000" />
+      <workItem from="1568228819813" duration="415000" />
+      <workItem from="1568229257799" duration="125000" />
+      <workItem from="1568229770861" duration="279000" />
+      <workItem from="1568230672715" duration="151000" />
+      <workItem from="1568230846029" duration="66000" />
+      <workItem from="1568230937407" duration="381000" />
+      <workItem from="1568301345306" duration="1381000" />
+      <workItem from="1568304076378" duration="148000" />
+      <workItem from="1568306945744" duration="105000" />
+      <workItem from="1568476997178" duration="3526000" />
+      <workItem from="1568481093342" duration="4256000" />
+      <workItem from="1569955374466" duration="287000" />
+      <workItem from="1570305040750" duration="3379000" />
+      <workItem from="1570799601567" duration="673000" />
+      <workItem from="1572112748552" duration="5012000" />
+      <workItem from="1572256476468" duration="68000" />
+      <workItem from="1572549802192" duration="2288000" />
+      <workItem from="1574777695318" duration="136000" />
+      <workItem from="1575569375358" duration="4696000" />
+      <workItem from="1575927773737" duration="17000" />
+      <workItem from="1576104888879" duration="972000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/clinic$clinic.coverage" NAME="clinic Coverage Results" MODIFIED="1575572476578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
